@@ -23,6 +23,7 @@ Me gusta lo que se puede demostrar, mantener y heredar. Lo demás es PowerPoint.
 ## 🧭 Trayectoria
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'cScale0':'#1e293b','cScaleLabel0':'#e2e8f0','cScaleInv0':'#e2e8f0','cScale1':'#0f3057','cScaleLabel1':'#e2e8f0','cScaleInv1':'#e2e8f0','cScale2':'#334155','cScaleLabel2':'#e2e8f0','cScaleInv2':'#e2e8f0','cScale3':'#1d3557','cScaleLabel3':'#e2e8f0','cScaleInv3':'#e2e8f0','cScale4':'#27364f','cScaleLabel4':'#e2e8f0','cScaleInv4':'#e2e8f0','cScale5':'#3b4a63','cScaleLabel5':'#e2e8f0','cScaleInv5':'#e2e8f0','cScale6':'#16324f','cScaleLabel6':'#e2e8f0','cScaleInv6':'#e2e8f0','cScale7':'#2b3a55','cScaleLabel7':'#e2e8f0','cScaleInv7':'#e2e8f0','cScale8':'#1f3a5f','cScaleLabel8':'#e2e8f0','cScaleInv8':'#e2e8f0','cScale9':'#475569','cScaleLabel9':'#e2e8f0','cScaleInv9':'#e2e8f0','cScale10':'#0c2340','cScaleLabel10':'#e2e8f0','cScaleInv10':'#e2e8f0','cScale11':'#374151','cScaleLabel11':'#e2e8f0','cScaleInv11':'#e2e8f0','fontFamily':'monospace'}}}%%
 timeline
     title De operador de respaldos a coordinador general
     2010 : Logística y atención ciudadana, Ayuntamiento de Zapopan

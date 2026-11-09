@@ -12,7 +12,7 @@
 <rect width="1200" height="320" fill="url(#sc)"/>
 <rect width="1200" height="34" fill="#06150e"/>
 <circle cx="24" cy="17" r="6" fill="#ff5f56"/><circle cx="46" cy="17" r="6" fill="#ffbd2e"/><circle cx="68" cy="17" r="6" fill="#27c93f"/>
-<text x="600" y="22" text-anchor="middle" class="m" font-size="13" fill="#4d8f73">fsociety@hcg:~ — zsh</text>
+<text x="600" y="22" text-anchor="middle" class="m" font-size="13" fill="#4d8f73">rcvs@hcg:~ — zsh</text>
 <g>
 <text x="60" y="98" class="t" fill="#ff2a6d" opacity="0.75"><animate attributeName="x" values="60;57;63;60;60;60;60;62;60" dur="3.4s" repeatCount="indefinite"/>RCVS // CARLOS VÁZQUEZ</text>
 <text x="60" y="98" class="t" fill="#05d9e8" opacity="0.75"><animate attributeName="x" values="60;63;57;60;60;60;60;58;60" dur="3.4s" repeatCount="indefinite"/>RCVS // CARLOS VÁZQUEZ</text>
