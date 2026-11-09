@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Roberto Carlos Vázquez, Coordinador General de Informática" width="100%">
+<img src="banner-v2.svg" alt="Roberto Carlos Vázquez, Coordinador General de Informática" width="100%">
 
 ![Experiencia](https://img.shields.io/badge/experiencia-15%2B%20a%C3%B1os-00ff9c?labelColor=020a06)
 ![Sector](https://img.shields.io/badge/sector-salud%20digital-00ff9c?labelColor=020a06)
