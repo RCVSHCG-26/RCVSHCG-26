@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Roberto Carlos Vázquez, Coordinador General de Informática">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A2540"/>
+      <stop offset="0.65" stop-color="#1B3A6B"/>
+      <stop offset="1" stop-color="#635BFF"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D4B2"/>
+      <stop offset="1" stop-color="#635BFF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <!-- ADN estilizado -->
+  <g fill="none" stroke="#00D4B2" stroke-width="3" stroke-linecap="round" opacity="0.9">
+    <path d="M960 30 C1040 70 1040 110 960 150 S880 230 960 260">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1060 30 C980 70 980 110 1060 150 S1140 230 1060 260" stroke="#ffffff" stroke-opacity="0.8"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity="0.35" stroke-width="2">
+    <line x1="975" y1="52" x2="1045" y2="52"/><line x1="995" y1="90" x2="1025" y2="90"/>
+    <line x1="975" y1="130" x2="1045" y2="130"/><line x1="995" y1="170" x2="1025" y2="170"/>
+    <line x1="975" y1="210" x2="1045" y2="210"/><line x1="995" y1="248" x2="1025" y2="248"/>
+  </g>
+  <text x="70" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff">Roberto Carlos Vázquez</text>
+  <rect x="72" y="146" width="360" height="5" rx="2.5" fill="url(#line)"/>
+  <text x="72" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#F8FAFC">Coordinador General de Informática · Salud digital
+  <text x="72" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#00D4B2" letter-spacing="2">INFRAESTRUCTURA  ·  TRANSFORMACION DIGITAL  ·  IA RESPONSABLE</text>
+</svg>
